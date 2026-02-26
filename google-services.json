@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320277950158",
+    "project_id": "quizapp-trabalho",
+    "storage_bucket": "quizapp-trabalho.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320277950158:android:4a6991dead5f4197252a9f",
+        "android_client_info": {
+          "package_name": "com.seugrupo.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSYArO2AEOtC8S5_Q1sZIiVbAgIAmbAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
